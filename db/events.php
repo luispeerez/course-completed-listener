@@ -14,7 +14,6 @@ defined('MOODLE_INTERNAL') || die();
 
 
 // List of events_2 observers.
-echo "hola desde events2";
 
 $observers = array(
 
